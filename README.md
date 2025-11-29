@@ -26,3 +26,7 @@
 [![](https://visitcount.itsvg.in/api?id=AliceNo01&icon=7&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="[your-image.gif](https://media.tenor.com/QPgguxcy_pIAAAAj/pixelstar-pixel.gif)">
+</p>
