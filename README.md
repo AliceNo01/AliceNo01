@@ -1,5 +1,5 @@
 
-## Hi, I'm Alice. ✨</>
+<h1 align="center"> Hi, I'm Alice. ✨</h1>
 
 # 💫 About Me:
  I'm an artist and also newbie programer.🩷🩵
