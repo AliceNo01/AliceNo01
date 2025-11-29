@@ -2,7 +2,7 @@
 
 # 💫 About Me:
  I'm an artist and also newbie programer.🩷🩵
- I will try my best to make the project with my art!😸
+ <p>I will try my best to make the project with my art!😸</p>
 
 
 ## 🌐 Socials:
