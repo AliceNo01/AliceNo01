@@ -1,4 +1,5 @@
-## Hi, I'm Alice. ✨
+
+<style mid>## Hi, I'm Alice. ✨</>
 
 # 💫 About Me:
  I'm an artist and also newbie programer.🩷🩵
