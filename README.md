@@ -1,7 +1,8 @@
 ## Hi, I'm Alice. ✨
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+ I'm an artist and also newbie programer.🩷🩵
+ I will try my best to make the project with my art!😸
 
 
 ## 🌐 Socials:
