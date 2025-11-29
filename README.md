@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi, I'm Nanaphat Aeimsard but you can call me Alice.💕</h1>
+<h1 align="center"> Hi, I'm Nanaphat Aeimsard but you can call me Alice.<img src="https://media.tenor.com/TD9IhfQvDNEAAAAj/puso-heart.gif" width="30"/></h1>
 
 ## 💫 About Me:
  I'm an artist and also newbie programer.🩷🩵
@@ -25,8 +25,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AliceNo01&icon=7&color=10)](https://visitcount.itsvg.in)
 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="center">
-  <img src="[your-image.gif](https://media.tenor.com/QPgguxcy_pIAAAAj/pixelstar-pixel.gif)">
-</p>
+
