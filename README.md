@@ -1,5 +1,6 @@
 
- <h1 align="center"> Hi, I'm Nanaphat Aeimsard. <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*wkQC9urGPLTPkqctV5TuLA.gif" width="40"/></h1><h1 align="center">So you can call me Alice!<img src="https://media.tenor.com/TD9IhfQvDNEAAAAj/puso-heart.gif" width="30"/></h1>
+ <h1 align="center"> Hi, I'm Nanaphat Aeimsard. <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*wkQC9urGPLTPkqctV5TuLA.gif" width="40"/><br>
+  So you can call me Alice!<img src="https://media.tenor.com/TD9IhfQvDNEAAAAj/puso-heart.gif" width="30"/></h1>
  
  ## 💫 About Me:
   I'm an artist and also newbie programer.🩷🩵
